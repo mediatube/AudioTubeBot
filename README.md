@@ -1,12 +1,12 @@
 ## Welcome to GitHub Pages
-```
-Загрузка
+```markdown
+**Загрузка**
     ├YouTube
-    ┊   └audio >> youtu.be/9zCVth5QUAA(10.2-40:2)(1.1)
-    ┊   └video >> youtu.be/9zCVth5QUAA(10.2-40:2)
+    ┊   `└audio` >> [youtu.be/9zCVth5QUAA(10.2-40:2)(1.1)](youtu.be/9zCVth5QUAA(10.2-40:2)(1.1))
+    ┊   `└video` >> [youtu.be/9zCVth5QUAA(10.2-40:2)](youtu.be/9zCVth5QUAA(10.2-40:2))
     └Vkontakte
-        ├playlist >> vk.com/music?z=audio\_playlist500080941\_1
-        └audios >> vk.com/audios500080941
+        `├playlist` >> vk.com/music?z=audio\_playlist500080941\_1
+        `└audio`s >> vk.com/audios500080941
 Аудиоредактор
     └Telegram
           ├audio:rename  >reply  ((НОВОЕ ИМЯ))
