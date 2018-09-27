@@ -1,19 +1,20 @@
 ## Welcome to GitHub Pages
-**Загрузка**\n
+```
+Загрузка
     ├YouTube
-    ┊   `└audio` **>>** youtu.be/9zCVth5QUAA(10.2-40:2)(1.1)
-    ┊   `└video` **>>** youtu.be/9zCVth5QUAA(10.2-40:2)
+    ┊   └audio >> youtu.be/9zCVth5QUAA(10.2-40:2)(1.1)
+    ┊   └video >> youtu.be/9zCVth5QUAA(10.2-40:2)
     └Vkontakte
-        `├playlist` **>>** vk.com/music?z=audio\_playlist500080941\_1
-        `└audios` **>>** vk.com/audios500080941
-
-**Аудиоредактор**
+        ├playlist >> vk.com/music?z=audio\_playlist500080941\_1
+        └audios >> vk.com/audios500080941
+Аудиоредактор
     └Telegram
-          `├audio:`rename  `>reply`  **((НОВОЕ ИМЯ))**
-          `├audio:`cut  `>reply`  **(10.2-40:2)**
-          `├audio:`speedx  `>reply`  **(1.1)**
-          `├audio:`normalize  `>reply`  **(norm)**
-          `└video:`extract audio  `>reply`  **(audio)**
+          ├audio:rename  >reply  ((НОВОЕ ИМЯ))
+          ├audio:cut  >reply  (10.2-40:2)
+          ├audio:speedx  >reply  (1.1)
+          ├audio:normalize  >reply  (norm)
+          └video:extract audio  >reply  (audio)
+```
 
 You can use the [editor on GitHub](https://github.com/mediatube/audiotubebot/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
